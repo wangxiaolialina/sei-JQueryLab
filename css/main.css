@@ -1,0 +1,33 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid green;
+  margin: 20vh;
+}
+
+h1 {
+  background-color: MediumSeaGreen;
+  color: white;
+  font-weight: normal;
+  padding:20px 60px;
+  font-family:Helvetica;
+  font-size: 30px;
+}
+
+
+#deleteButton {
+  background-color: red;
+  font-weight: 800;
+  color: white;
+  padding:5px;
+  margin-right: 10px;
+}
+
+
+p {
+  font-size: large;
+}
